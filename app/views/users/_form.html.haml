@@ -1,0 +1,6 @@
+= nice_form_for resource, url: user_path(resource) do |f|
+  = f.errors_for
+
+  = f.text_field :email
+  = f.text_field :password, hint: resource.new_record? ? nil : 'Указывайте только, если требуется сменить пароль.'
+  = f.submit 'Сохранить'

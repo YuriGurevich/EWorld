@@ -1,0 +1,103 @@
+.hotels
+  %h1.with-button
+    Гостиницы
+    - if can? :create, Hotel
+      = link_to 'Добавить гостиницу', new_hotel_path, class: 'btn btn-mini btn-success'
+
+  = render :partial => 'search_form'
+
+  - if @hotels.empty?
+    %p Ничего не найдено
+  - else
+    %table.table.table-striped
+      %tr
+        %th.first= sortable 'hotels.name', 'Название'
+        %th(width="80")= sortable 'hotel_cities.name', 'Город'
+        - @hotels.first.filters.each do |filter|
+          %th(width="80")= filter.name
+        %th(width="120")= sortable 'hotels.min_price_summer', 'Минимальная стоимость'
+        %th.center(width="80")= sortable 'hotels.all_rooms_count', 'Кол. номеров'
+        %th.center(width="90")= sortable 'hotels.min_age_children', 'Мин. возраст детей'
+        %th.center.last(width="65")= sortable 'hotels.reviews_count', 'Отзывы'
+        - if can? :edit, Hotel
+          %th.center(width="75") Комиссия агентства
+        - if can? :edit, Hotel
+          %th.actions(width="38")
+
+      %tbody
+        - @hotels.each do |hotel|
+          %tr
+            - if can? :read, hotel
+              %td= link_to hotel.name, hotel
+            - else
+              %td= hotel.name
+            %td= hotel.city
+            - hotel.filter_values.each do |value|
+              - unless value.nil?
+                %td= value.item ? value.item.name : '-'
+            %td
+              - if hotel.min_price_summer
+                = hotel.min_price_summer
+                \- лето
+              %br
+              - if hotel.min_price_winter
+                = hotel.min_price_winter
+                \- зима
+            %td.center= hotel.all_rooms_count
+            %td.center= hotel.min_age_children
+            %td.center= link_to review_counter(hotel), hotel
+            - if can? :edit, Hotel
+              %td.center= number_to_percentage hotel.agency_commission, precision: 0
+            - if can? :edit, hotel
+              %td.actions
+                = link_to edit_resource_path(hotel) do
+                  %i.icon-pencil
+                - if can? :delete, hotel
+                  = link_to hotel, :confirm => 'Вы уверены, что хотите удалить эту гостиницу?', :method => :delete do
+                    %i.icon.icon-trash
+
+          - if params[:has_special_offers]
+            %tr
+              %td(colspan="11")
+                .short-special-offers
+                  - offers = hotel.special_offers.select { |o| o.to >= Date.today }
+                  - offers.each_with_index do |resource, index|
+                    .offer-item{ class: index > 1 ? 'hide' : 'visible' }
+                      .row-fluid
+                        .span6
+                          %strong= resource.title
+
+                        .span6.date
+                          = l resource.from, format: :long
+                          \-
+                          = l resource.to, format: :long
+                      %div.description= resource.description
+
+                  - if offers.size > 2
+                    .more
+                      = link_to "Показать все (ещё #{offers.size - 2} #{Russian.p(offers.size - 2, 'предложение', 'предложения', 'предложений')})", '#', class: 'show-more-offers'
+
+    :javascript
+      jQuery(function(j){
+        j('a.show-more-offers').click(function(){
+          j(this).closest('div.short-special-offers').find('div.offer-item').removeClass('hide');
+          j(this).parent().remove();
+
+          return false;
+        });
+      });
+
+    .row-fluid
+      .pull-left
+        = will_paginate @hotels, previous_label: '«', next_label: '»'
+      .pull-right
+        .pagination
+          %ul
+            %li.disabled= link_to 'На страницу:', '#', onclick: 'return false', class: 'no-line'
+            - [10, 20, 50].each do |c|
+              - params[:per_page] = 10 unless params[:per_page]
+
+              - if params[:per_page].to_i != c
+                %li= link_to c, hotels_path(params.dup.merge(per_page: c, page: 1))
+              - else
+                %li.disabled= link_to c, '#', onclick: 'return false'

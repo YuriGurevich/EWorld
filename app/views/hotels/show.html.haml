@@ -1,0 +1,60 @@
+- content_for :hidden_field do
+  Скрыто
+  = link_to '#', rel: 'tooltip', :'data-original-title' => 'Подробная информация доступна только зарегистрированным пользователям – обращайтесь в уполномоченные турагенства, смотрите раздел «Партнеры»' do
+    %i.icon-question-sign
+
+.hotels-show
+  %h1.with-button
+    = resource.name
+    - if can? :edit, Hotel
+      = link_to 'Редактировать', edit_resource_path, class: 'btn btn-mini btn-success'
+
+    - if user_signed_in?
+      = link_to 'Отчет', print_hotel_path(resource), class: 'btn btn-mini btn-success'
+  
+  - if user_signed_in?
+    %p= resource.description
+
+  - unless user_signed_in?
+    .alert.alert-success
+      %i.icon-question-sign
+      Подробная информация доступна только зарегистрированным пользователям – обращайтесь в
+      = link_to 'уполномоченные турагенства.', partners_site_index_path
+
+  .images
+    %ul.thumbnails
+      - resource.images.each do |a|
+        %li
+          = link_to a.attach.url, rel: 'gallery', title: a.description, class: 'thumbnail' do
+            = image_tag a.attach.url :thumb, alt: a.description
+
+  %ul#tab.nav.nav-tabs
+    %li.active
+      %a(href="#main-section" data-toggle="tab") Информация о гостинице
+    %li
+      %a(href="#rooms-section" data-toggle="tab") Номера
+    %li
+      - active_count = resource.special_offers.map { |i| i if i.to >= Date.today }.compact.count
+      %a(href="#special-offers-section" data-toggle="tab")
+        - if active_count < 1 || !user_signed_in?
+          Специальные предложения
+        - else
+          = "Специальные предложения (#{active_count})"
+    %li
+      %a(href="#reviews-section" data-toggle="tab")
+        Отзывы
+        - if review_count(resource) > 0
+          = "(#{review_counter(resource)})"
+
+  .tab-content
+    #main-section.tab-pane.fade.in.active
+      = render :partial => 'show_main'
+
+    #special-offers-section.tab-pane.fade
+      = render :partial => 'show_special_offers'
+
+    #rooms-section.tab-pane.fade
+      = render :partial => 'show_rooms'
+
+    #reviews-section.tab-pane.fade
+      = render :partial => 'show_reviews'

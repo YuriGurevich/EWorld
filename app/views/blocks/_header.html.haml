@@ -1,0 +1,41 @@
+.container
+  .header
+    %h1
+      %a{:href => root_path} Изумрудный город
+    .user
+      .row-fluid
+        - if user_signed_in?
+          = render :partial => 'blocks/profile'
+        - else
+          .span4
+            .auth
+              %a{:href => new_user_session_path}
+                %i.icon.icon-share-alt
+                Вход для партнеров
+          .span1.offset1  
+          .span2.contacts
+            .title Контактный тел.:
+            +7 (8617) 67 62 23
+          .span2.contacts
+            .title E-mail
+            admin@emerald-world.ru
+          .span3.contacts
+            .title Skype
+            .with-image
+              -#%img.icq{:alt => "", :height => "14", :src => "http://status.icq.com/online.gif?icq=444410022&img=21", :width => "14"}/
+              -#%a{:href => "#"} 444410022
+              %a{:href => "skype:emerald-world?chat"}
+                -#%img{:alt => "", :height => "14", :src => "http://mystatus.skype.com/smallicon/alexes.dev", :width => "14"}/
+                emerald-world
+    .menu
+      %ul.unstyled.full-width
+        = #main_menu_item 'О компании', page_path('about')
+        = main_menu_item 'Документы', documents_path
+        = main_menu_item 'Акции', articles_path
+        = main_menu_item 'Каталог', hotels_path
+        = main_menu_item 'Партнеры', partners_site_index_path
+        = main_menu_item 'Услуги', show_page_path('services')
+        = main_menu_item 'Контакты', contact_path
+
+    - if user_signed_in?
+      = render :partial => 'blocks/sub_menu'

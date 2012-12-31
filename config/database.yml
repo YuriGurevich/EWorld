@@ -1,0 +1,32 @@
+# SQLite version 3.x
+#   gem install sqlite3
+#
+#   Ensure the SQLite 3 gem is defined in your Gemfile
+#   gem 'sqlite3'
+#
+
+defaults: &defaults
+  adapter: postgresql
+  encoding: utf8
+  pool: 5
+  username: emerald_city_user
+  password: BJdn8CJ9T3dHjUaZ
+
+  port: 5432
+
+  schema_search_path: public
+  template: template0
+
+development:
+  <<: *defaults
+  database: emerald_city_development
+  #host: localhost
+
+test:
+  <<: *defaults
+  database: emerald_city_test
+  #host: localhost
+
+production:
+  <<: *defaults
+  database: emerald_city_production

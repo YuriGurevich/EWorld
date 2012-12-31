@@ -1,0 +1,44 @@
+.hotels-form
+  .well
+    = nested_nice_form_for resource, html: { multipart: true} do |f|
+      = f.errors_for
+
+      %ul#tab.nav.nav-pills
+        %li.active
+          %a(href="#main-section" data-toggle="tab") Основное
+        %li
+          %a(href="#services-section" data-toggle="tab") Сервисы
+        %li
+          %a(href="#bank-section" data-toggle="tab") Банковские реквизиты
+        %li
+          %a(href="#offers-section" data-toggle="tab") Специальные предложения
+        %li
+          %a(href="#images-section" data-toggle="tab") Изображения
+        %li
+          %a(href="#rooms-section" data-toggle="tab") Номера
+
+      .tab-content
+        #main-section.tab-pane.fade.in.active
+          = render :partial => 'main_form', locals: { f: f }
+
+        #services-section.tab-pane.fade
+          = render :partial => 'services_form', locals: { f: f }
+
+        #bank-section.tab-pane.fade
+          = render :partial => 'bank_form', locals: { f: f }
+
+        #offers-section.tab-pane.fade
+          = render :partial => 'offers_form', locals: { f: f }
+
+        #images-section.tab-pane.fade
+          = render :partial => 'images_form', locals: { f: f }
+
+        #rooms-section.tab-pane.fade
+          = render :partial => 'rooms_form', locals: { f: f }
+
+        #map-section.tab-pane.fade
+          = render :partial => 'map_form'
+
+      = f.actions do
+        = f.submit 'Сохранить'
+        = link_to 'Отмена', hotels_path, class: 'btn'

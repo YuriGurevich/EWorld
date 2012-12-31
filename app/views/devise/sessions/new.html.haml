@@ -1,0 +1,16 @@
+.sessions-new
+  %h3 Вход для партнеров
+
+  = nice_form_for resource, :as => resource_name, :url => session_path(resource_name) do |f|
+    = f.errors_for
+    = f.text_field :email, class: 'input-xlarge'
+    = f.password_field :password, class: 'input-xlarge'
+    = f.check_box :remember_me
+
+    .control-group
+      .controls
+        = render 'links'
+
+    = f.actions do
+      = f.submit 'Войти'
+

@@ -1,0 +1,941 @@
+Connecting to database specified by database.yml
+Creating scope :page. Overwriting existing method User.page.
+Creating scope :page. Overwriting existing method Hotel.page.
+Creating scope :page. Overwriting existing method Hotel::Room.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Photo.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Filter.page.
+Creating scope :page. Overwriting existing method Hotel::Service.page.
+Creating scope :page. Overwriting existing method Article.page.
+Creating scope :page. Overwriting existing method BasketItem.page.
+Creating scope :page. Overwriting existing method Document.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Hotel::Room::Photo class
+Creating scope :page. Overwriting existing method EmailTemplate.page.
+Creating scope :page. Overwriting existing method Hotel::City.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Image.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Document class
+Creating scope :page. Overwriting existing method Hotel::Review.page.
+Creating scope :page. Overwriting existing method Hotel::Service::Value.page.
+Creating scope :page. Overwriting existing method Hotel::SpecialOffer.page.
+Creating scope :page. Overwriting existing method Message.page.
+Creating scope :page. Overwriting existing method Ticket.page.
+Creating scope :page. Overwriting existing method Page.page.
+[paperclip] Duplicate path for image with :rails_root/public:url. This will clash with attachment defined in Article class
+Creating scope :page. Overwriting existing method Profile.page.
+Creating scope :page. Overwriting existing method ContactMessage.page.
+Creating scope :page. Overwriting existing method Hotel::BankAttribute.page.
+Creating scope :page. Overwriting existing method Hotel::Booking.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Type.page.
+Creating scope :page. Overwriting existing method Hotel::Street.page.
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Creating scope :page. Overwriting existing method User.page.
+Creating scope :page. Overwriting existing method Hotel.page.
+Creating scope :page. Overwriting existing method Hotel::Room.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Photo.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Filter.page.
+Creating scope :page. Overwriting existing method Hotel::Service.page.
+Creating scope :page. Overwriting existing method Article.page.
+Creating scope :page. Overwriting existing method BasketItem.page.
+Creating scope :page. Overwriting existing method Document.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Hotel::Room::Photo class
+Creating scope :page. Overwriting existing method EmailTemplate.page.
+Creating scope :page. Overwriting existing method Hotel::City.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Image.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Document class
+Creating scope :page. Overwriting existing method Hotel::Review.page.
+Creating scope :page. Overwriting existing method Hotel::Service::Value.page.
+Creating scope :page. Overwriting existing method Hotel::SpecialOffer.page.
+Creating scope :page. Overwriting existing method Message.page.
+Creating scope :page. Overwriting existing method Ticket.page.
+Creating scope :page. Overwriting existing method Page.page.
+[paperclip] Duplicate path for image with :rails_root/public:url. This will clash with attachment defined in Article class
+Creating scope :page. Overwriting existing method Profile.page.
+Creating scope :page. Overwriting existing method ContactMessage.page.
+Creating scope :page. Overwriting existing method Hotel::BankAttribute.page.
+Creating scope :page. Overwriting existing method Hotel::Booking.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Type.page.
+Creating scope :page. Overwriting existing method Hotel::Street.page.
+Connecting to database specified by database.yml
+Creating scope :page. Overwriting existing method User.page.
+Creating scope :page. Overwriting existing method Hotel.page.
+Creating scope :page. Overwriting existing method Hotel::Room.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Photo.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Filter.page.
+Creating scope :page. Overwriting existing method Hotel::Service.page.
+Creating scope :page. Overwriting existing method Article.page.
+Creating scope :page. Overwriting existing method BasketItem.page.
+Creating scope :page. Overwriting existing method Document.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Hotel::Room::Photo class
+Creating scope :page. Overwriting existing method EmailTemplate.page.
+Creating scope :page. Overwriting existing method Hotel::City.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Image.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Document class
+Creating scope :page. Overwriting existing method Hotel::Review.page.
+Creating scope :page. Overwriting existing method Hotel::Service::Value.page.
+Creating scope :page. Overwriting existing method Hotel::SpecialOffer.page.
+Creating scope :page. Overwriting existing method Message.page.
+Creating scope :page. Overwriting existing method Ticket.page.
+Creating scope :page. Overwriting existing method Page.page.
+[paperclip] Duplicate path for image with :rails_root/public:url. This will clash with attachment defined in Article class
+Creating scope :page. Overwriting existing method Profile.page.
+Creating scope :page. Overwriting existing method ContactMessage.page.
+Creating scope :page. Overwriting existing method Hotel::BankAttribute.page.
+Creating scope :page. Overwriting existing method Hotel::Booking.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Type.page.
+Creating scope :page. Overwriting existing method Hotel::Street.page.
+Connecting to database specified by database.yml
+Creating scope :page. Overwriting existing method User.page.
+Creating scope :page. Overwriting existing method Hotel.page.
+Creating scope :page. Overwriting existing method Hotel::Room.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Photo.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Filter.page.
+Creating scope :page. Overwriting existing method Hotel::Service.page.
+Creating scope :page. Overwriting existing method Article.page.
+Creating scope :page. Overwriting existing method BasketItem.page.
+Creating scope :page. Overwriting existing method Document.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Hotel::Room::Photo class
+Creating scope :page. Overwriting existing method EmailTemplate.page.
+Creating scope :page. Overwriting existing method Hotel::City.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Image.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Document class
+Creating scope :page. Overwriting existing method Hotel::Review.page.
+Creating scope :page. Overwriting existing method Hotel::Service::Value.page.
+Creating scope :page. Overwriting existing method Hotel::SpecialOffer.page.
+Creating scope :page. Overwriting existing method Message.page.
+Creating scope :page. Overwriting existing method Ticket.page.
+Creating scope :page. Overwriting existing method Page.page.
+[paperclip] Duplicate path for image with :rails_root/public:url. This will clash with attachment defined in Article class
+Creating scope :page. Overwriting existing method Profile.page.
+Creating scope :page. Overwriting existing method ContactMessage.page.
+Creating scope :page. Overwriting existing method Hotel::BankAttribute.page.
+Creating scope :page. Overwriting existing method Hotel::Booking.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Type.page.
+Creating scope :page. Overwriting existing method Hotel::Street.page.
+Connecting to database specified by database.yml
+Creating scope :page. Overwriting existing method User.page.
+Creating scope :page. Overwriting existing method Hotel.page.
+Creating scope :page. Overwriting existing method Hotel::Room.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Photo.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Filter.page.
+Creating scope :page. Overwriting existing method Hotel::Service.page.
+Creating scope :page. Overwriting existing method Article.page.
+Creating scope :page. Overwriting existing method BasketItem.page.
+Creating scope :page. Overwriting existing method Document.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Hotel::Room::Photo class
+Creating scope :page. Overwriting existing method EmailTemplate.page.
+Creating scope :page. Overwriting existing method Hotel::City.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Image.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Document class
+Creating scope :page. Overwriting existing method Hotel::Review.page.
+Creating scope :page. Overwriting existing method Hotel::Service::Value.page.
+Creating scope :page. Overwriting existing method Hotel::SpecialOffer.page.
+Creating scope :page. Overwriting existing method Message.page.
+Creating scope :page. Overwriting existing method Ticket.page.
+Creating scope :page. Overwriting existing method Page.page.
+[paperclip] Duplicate path for image with :rails_root/public:url. This will clash with attachment defined in Article class
+Creating scope :page. Overwriting existing method Profile.page.
+Creating scope :page. Overwriting existing method ContactMessage.page.
+Creating scope :page. Overwriting existing method Hotel::BankAttribute.page.
+Creating scope :page. Overwriting existing method Hotel::Booking.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Type.page.
+Creating scope :page. Overwriting existing method Hotel::Street.page.
+Connecting to database specified by database.yml
+Creating scope :page. Overwriting existing method User.page.
+Creating scope :page. Overwriting existing method Hotel.page.
+Creating scope :page. Overwriting existing method Hotel::Room.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Photo.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Filter.page.
+Creating scope :page. Overwriting existing method Hotel::Service.page.
+Creating scope :page. Overwriting existing method Article.page.
+Creating scope :page. Overwriting existing method BasketItem.page.
+Creating scope :page. Overwriting existing method Document.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Hotel::Room::Photo class
+Creating scope :page. Overwriting existing method EmailTemplate.page.
+Creating scope :page. Overwriting existing method Hotel::City.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Image.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Document class
+Creating scope :page. Overwriting existing method Hotel::Review.page.
+Creating scope :page. Overwriting existing method Hotel::Service::Value.page.
+Creating scope :page. Overwriting existing method Hotel::SpecialOffer.page.
+Creating scope :page. Overwriting existing method Message.page.
+Creating scope :page. Overwriting existing method Ticket.page.
+Creating scope :page. Overwriting existing method Page.page.
+[paperclip] Duplicate path for image with :rails_root/public:url. This will clash with attachment defined in Article class
+Creating scope :page. Overwriting existing method Profile.page.
+Creating scope :page. Overwriting existing method ContactMessage.page.
+Creating scope :page. Overwriting existing method Hotel::BankAttribute.page.
+Creating scope :page. Overwriting existing method Hotel::Booking.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Type.page.
+Creating scope :page. Overwriting existing method Hotel::Street.page.
+Connecting to database specified by database.yml
+Creating scope :page. Overwriting existing method User.page.
+Creating scope :page. Overwriting existing method Hotel.page.
+Creating scope :page. Overwriting existing method Hotel::Room.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Photo.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Filter.page.
+Creating scope :page. Overwriting existing method Hotel::Service.page.
+Creating scope :page. Overwriting existing method Article.page.
+Creating scope :page. Overwriting existing method BasketItem.page.
+Creating scope :page. Overwriting existing method Document.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Hotel::Room::Photo class
+Creating scope :page. Overwriting existing method EmailTemplate.page.
+Creating scope :page. Overwriting existing method Hotel::City.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Image.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Document class
+Creating scope :page. Overwriting existing method Hotel::Review.page.
+Creating scope :page. Overwriting existing method Hotel::Service::Value.page.
+Creating scope :page. Overwriting existing method Hotel::SpecialOffer.page.
+Creating scope :page. Overwriting existing method Message.page.
+Creating scope :page. Overwriting existing method Ticket.page.
+Creating scope :page. Overwriting existing method Page.page.
+[paperclip] Duplicate path for image with :rails_root/public:url. This will clash with attachment defined in Article class
+Creating scope :page. Overwriting existing method Profile.page.
+Creating scope :page. Overwriting existing method ContactMessage.page.
+Creating scope :page. Overwriting existing method Hotel::BankAttribute.page.
+Creating scope :page. Overwriting existing method Hotel::Booking.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Type.page.
+Creating scope :page. Overwriting existing method Hotel::Street.page.
+Connecting to database specified by database.yml
+Creating scope :page. Overwriting existing method User.page.
+Creating scope :page. Overwriting existing method Hotel.page.
+Creating scope :page. Overwriting existing method Hotel::Room.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Photo.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Filter.page.
+Creating scope :page. Overwriting existing method Hotel::Service.page.
+Creating scope :page. Overwriting existing method Article.page.
+Creating scope :page. Overwriting existing method BasketItem.page.
+Creating scope :page. Overwriting existing method Document.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Hotel::Room::Photo class
+Creating scope :page. Overwriting existing method EmailTemplate.page.
+Creating scope :page. Overwriting existing method Hotel::City.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Image.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Document class
+Creating scope :page. Overwriting existing method Hotel::Review.page.
+Creating scope :page. Overwriting existing method Hotel::Service::Value.page.
+Creating scope :page. Overwriting existing method Hotel::SpecialOffer.page.
+Creating scope :page. Overwriting existing method Message.page.
+Creating scope :page. Overwriting existing method Ticket.page.
+Creating scope :page. Overwriting existing method Page.page.
+[paperclip] Duplicate path for image with :rails_root/public:url. This will clash with attachment defined in Article class
+Creating scope :page. Overwriting existing method Profile.page.
+Creating scope :page. Overwriting existing method ContactMessage.page.
+Creating scope :page. Overwriting existing method Hotel::BankAttribute.page.
+Creating scope :page. Overwriting existing method Hotel::Booking.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Type.page.
+Creating scope :page. Overwriting existing method Hotel::Street.page.
+Connecting to database specified by database.yml
+Creating scope :page. Overwriting existing method User.page.
+Creating scope :page. Overwriting existing method Hotel.page.
+Creating scope :page. Overwriting existing method Hotel::Room.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Photo.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Filter.page.
+Creating scope :page. Overwriting existing method Hotel::Service.page.
+Creating scope :page. Overwriting existing method Article.page.
+Creating scope :page. Overwriting existing method BasketItem.page.
+Creating scope :page. Overwriting existing method Document.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Hotel::Room::Photo class
+Creating scope :page. Overwriting existing method EmailTemplate.page.
+Creating scope :page. Overwriting existing method Hotel::City.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Image.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Document class
+Creating scope :page. Overwriting existing method Hotel::Review.page.
+Creating scope :page. Overwriting existing method Hotel::Service::Value.page.
+Creating scope :page. Overwriting existing method Hotel::SpecialOffer.page.
+Creating scope :page. Overwriting existing method Message.page.
+Creating scope :page. Overwriting existing method Ticket.page.
+Creating scope :page. Overwriting existing method Page.page.
+[paperclip] Duplicate path for image with :rails_root/public:url. This will clash with attachment defined in Article class
+Creating scope :page. Overwriting existing method Profile.page.
+Creating scope :page. Overwriting existing method ContactMessage.page.
+Creating scope :page. Overwriting existing method Hotel::BankAttribute.page.
+Creating scope :page. Overwriting existing method Hotel::Booking.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Type.page.
+Creating scope :page. Overwriting existing method Hotel::Street.page.
+Connecting to database specified by database.yml
+Creating scope :page. Overwriting existing method User.page.
+Creating scope :page. Overwriting existing method Hotel.page.
+Creating scope :page. Overwriting existing method Hotel::Room.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Photo.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Filter.page.
+Creating scope :page. Overwriting existing method Hotel::Service.page.
+Creating scope :page. Overwriting existing method Article.page.
+Creating scope :page. Overwriting existing method BasketItem.page.
+Creating scope :page. Overwriting existing method Document.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Hotel::Room::Photo class
+Creating scope :page. Overwriting existing method EmailTemplate.page.
+Creating scope :page. Overwriting existing method Hotel::City.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Image.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Document class
+Creating scope :page. Overwriting existing method Hotel::Review.page.
+Creating scope :page. Overwriting existing method Hotel::Service::Value.page.
+Creating scope :page. Overwriting existing method Hotel::SpecialOffer.page.
+Creating scope :page. Overwriting existing method Message.page.
+Creating scope :page. Overwriting existing method Ticket.page.
+Creating scope :page. Overwriting existing method Page.page.
+[paperclip] Duplicate path for image with :rails_root/public:url. This will clash with attachment defined in Article class
+Creating scope :page. Overwriting existing method Profile.page.
+Creating scope :page. Overwriting existing method ContactMessage.page.
+Creating scope :page. Overwriting existing method Hotel::BankAttribute.page.
+Creating scope :page. Overwriting existing method Hotel::Booking.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Type.page.
+Creating scope :page. Overwriting existing method Hotel::Street.page.
+Connecting to database specified by database.yml
+Creating scope :page. Overwriting existing method User.page.
+Creating scope :page. Overwriting existing method Hotel.page.
+Creating scope :page. Overwriting existing method Hotel::Room.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Photo.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Filter.page.
+Creating scope :page. Overwriting existing method Hotel::Service.page.
+Creating scope :page. Overwriting existing method Article.page.
+Creating scope :page. Overwriting existing method BasketItem.page.
+Creating scope :page. Overwriting existing method Document.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Hotel::Room::Photo class
+Creating scope :page. Overwriting existing method EmailTemplate.page.
+Creating scope :page. Overwriting existing method Hotel::City.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Image.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Document class
+Creating scope :page. Overwriting existing method Hotel::Review.page.
+Creating scope :page. Overwriting existing method Hotel::Service::Value.page.
+Creating scope :page. Overwriting existing method Hotel::SpecialOffer.page.
+Creating scope :page. Overwriting existing method Message.page.
+Creating scope :page. Overwriting existing method Ticket.page.
+Creating scope :page. Overwriting existing method Page.page.
+[paperclip] Duplicate path for image with :rails_root/public:url. This will clash with attachment defined in Article class
+Creating scope :page. Overwriting existing method Profile.page.
+Creating scope :page. Overwriting existing method ContactMessage.page.
+Creating scope :page. Overwriting existing method Hotel::BankAttribute.page.
+Creating scope :page. Overwriting existing method Hotel::Booking.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Type.page.
+Creating scope :page. Overwriting existing method Hotel::Street.page.
+Connecting to database specified by database.yml
+Creating scope :page. Overwriting existing method User.page.
+Creating scope :page. Overwriting existing method Hotel.page.
+Creating scope :page. Overwriting existing method Hotel::Room.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Photo.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Filter.page.
+Creating scope :page. Overwriting existing method Hotel::Service.page.
+Creating scope :page. Overwriting existing method Article.page.
+Creating scope :page. Overwriting existing method BasketItem.page.
+Creating scope :page. Overwriting existing method Document.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Hotel::Room::Photo class
+Creating scope :page. Overwriting existing method EmailTemplate.page.
+Creating scope :page. Overwriting existing method Hotel::City.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Image.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Document class
+Creating scope :page. Overwriting existing method Hotel::Review.page.
+Creating scope :page. Overwriting existing method Hotel::Service::Value.page.
+Creating scope :page. Overwriting existing method Hotel::SpecialOffer.page.
+Creating scope :page. Overwriting existing method Message.page.
+Creating scope :page. Overwriting existing method Ticket.page.
+Creating scope :page. Overwriting existing method Page.page.
+[paperclip] Duplicate path for image with :rails_root/public:url. This will clash with attachment defined in Article class
+Creating scope :page. Overwriting existing method Profile.page.
+Creating scope :page. Overwriting existing method ContactMessage.page.
+Creating scope :page. Overwriting existing method Hotel::BankAttribute.page.
+Creating scope :page. Overwriting existing method Hotel::Booking.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Type.page.
+Creating scope :page. Overwriting existing method Hotel::Street.page.
+Connecting to database specified by database.yml
+Creating scope :page. Overwriting existing method User.page.
+Creating scope :page. Overwriting existing method Hotel.page.
+Creating scope :page. Overwriting existing method Hotel::Room.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Photo.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Filter.page.
+Creating scope :page. Overwriting existing method Hotel::Service.page.
+Creating scope :page. Overwriting existing method Article.page.
+Creating scope :page. Overwriting existing method BasketItem.page.
+Creating scope :page. Overwriting existing method Document.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Hotel::Room::Photo class
+Creating scope :page. Overwriting existing method EmailTemplate.page.
+Creating scope :page. Overwriting existing method Hotel::City.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Image.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Document class
+Creating scope :page. Overwriting existing method Hotel::Review.page.
+Creating scope :page. Overwriting existing method Hotel::Service::Value.page.
+Creating scope :page. Overwriting existing method Hotel::SpecialOffer.page.
+Creating scope :page. Overwriting existing method Message.page.
+Creating scope :page. Overwriting existing method Ticket.page.
+Creating scope :page. Overwriting existing method Page.page.
+[paperclip] Duplicate path for image with :rails_root/public:url. This will clash with attachment defined in Article class
+Creating scope :page. Overwriting existing method Profile.page.
+Creating scope :page. Overwriting existing method ContactMessage.page.
+Creating scope :page. Overwriting existing method Hotel::BankAttribute.page.
+Creating scope :page. Overwriting existing method Hotel::Booking.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Type.page.
+Creating scope :page. Overwriting existing method Hotel::Street.page.
+Connecting to database specified by database.yml
+Creating scope :page. Overwriting existing method User.page.
+Creating scope :page. Overwriting existing method Hotel.page.
+Creating scope :page. Overwriting existing method Hotel::Room.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Photo.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Filter.page.
+Creating scope :page. Overwriting existing method Hotel::Service.page.
+Creating scope :page. Overwriting existing method Article.page.
+Creating scope :page. Overwriting existing method BasketItem.page.
+Creating scope :page. Overwriting existing method Document.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Hotel::Room::Photo class
+Creating scope :page. Overwriting existing method EmailTemplate.page.
+Creating scope :page. Overwriting existing method Hotel::City.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Image.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Document class
+Creating scope :page. Overwriting existing method Hotel::Review.page.
+Creating scope :page. Overwriting existing method Hotel::Service::Value.page.
+Creating scope :page. Overwriting existing method Hotel::SpecialOffer.page.
+Creating scope :page. Overwriting existing method Message.page.
+Creating scope :page. Overwriting existing method Ticket.page.
+Creating scope :page. Overwriting existing method Page.page.
+[paperclip] Duplicate path for image with :rails_root/public:url. This will clash with attachment defined in Article class
+Creating scope :page. Overwriting existing method Profile.page.
+Creating scope :page. Overwriting existing method ContactMessage.page.
+Creating scope :page. Overwriting existing method Hotel::BankAttribute.page.
+Creating scope :page. Overwriting existing method Hotel::Booking.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Type.page.
+Creating scope :page. Overwriting existing method Hotel::Street.page.
+Connecting to database specified by database.yml
+Creating scope :page. Overwriting existing method User.page.
+Creating scope :page. Overwriting existing method Hotel.page.
+Creating scope :page. Overwriting existing method Hotel::Room.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Photo.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Filter.page.
+Creating scope :page. Overwriting existing method Hotel::Service.page.
+Creating scope :page. Overwriting existing method Article.page.
+Creating scope :page. Overwriting existing method BasketItem.page.
+Creating scope :page. Overwriting existing method Document.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Hotel::Room::Photo class
+Creating scope :page. Overwriting existing method EmailTemplate.page.
+Creating scope :page. Overwriting existing method Hotel::City.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Image.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Document class
+Creating scope :page. Overwriting existing method Hotel::Review.page.
+Creating scope :page. Overwriting existing method Hotel::Service::Value.page.
+Creating scope :page. Overwriting existing method Hotel::SpecialOffer.page.
+Creating scope :page. Overwriting existing method Message.page.
+Creating scope :page. Overwriting existing method Ticket.page.
+Creating scope :page. Overwriting existing method Page.page.
+[paperclip] Duplicate path for image with :rails_root/public:url. This will clash with attachment defined in Article class
+Creating scope :page. Overwriting existing method Profile.page.
+Creating scope :page. Overwriting existing method ContactMessage.page.
+Creating scope :page. Overwriting existing method Hotel::BankAttribute.page.
+Creating scope :page. Overwriting existing method Hotel::Booking.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Type.page.
+Creating scope :page. Overwriting existing method Hotel::Street.page.
+Connecting to database specified by database.yml
+Creating scope :page. Overwriting existing method User.page.
+Creating scope :page. Overwriting existing method Hotel.page.
+Creating scope :page. Overwriting existing method Hotel::Room.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Photo.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Filter.page.
+Creating scope :page. Overwriting existing method Hotel::Service.page.
+Creating scope :page. Overwriting existing method Article.page.
+Creating scope :page. Overwriting existing method BasketItem.page.
+Creating scope :page. Overwriting existing method Document.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Hotel::Room::Photo class
+Creating scope :page. Overwriting existing method EmailTemplate.page.
+Creating scope :page. Overwriting existing method Hotel::City.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Image.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Document class
+Creating scope :page. Overwriting existing method Hotel::Review.page.
+Creating scope :page. Overwriting existing method Hotel::Service::Value.page.
+Creating scope :page. Overwriting existing method Hotel::SpecialOffer.page.
+Creating scope :page. Overwriting existing method Message.page.
+Creating scope :page. Overwriting existing method Ticket.page.
+Creating scope :page. Overwriting existing method Page.page.
+[paperclip] Duplicate path for image with :rails_root/public:url. This will clash with attachment defined in Article class
+Creating scope :page. Overwriting existing method Profile.page.
+Creating scope :page. Overwriting existing method ContactMessage.page.
+Creating scope :page. Overwriting existing method Hotel::BankAttribute.page.
+Creating scope :page. Overwriting existing method Hotel::Booking.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Type.page.
+Creating scope :page. Overwriting existing method Hotel::Street.page.
+
+
+Started GET "/" for 127.0.0.1 at 2012-12-09 21:29:09 +0400
+Processing by SiteController#index as HTML
+  Rendered text template (0.0ms)
+Completed 500 Internal Server Error in 80ms (Views: 67.1ms | ActiveRecord: 10.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-12-09 21:29:15 +0400
+Processing by SiteController#index as HTML
+  Rendered text template (0.0ms)
+Completed 500 Internal Server Error in 3ms (Views: 0.5ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-12-09 21:29:29 +0400
+Processing by SiteController#index as HTML
+  Rendered text template (0.0ms)
+Completed 500 Internal Server Error in 2ms (Views: 0.3ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-12-09 21:29:38 +0400
+Processing by SiteController#index as HTML
+  Rendered text template (0.0ms)
+Completed 500 Internal Server Error in 3ms (Views: 0.6ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-12-09 21:29:53 +0400
+Processing by SiteController#index as HTML
+  Rendered text template (0.0ms)
+Completed 500 Internal Server Error in 4ms (Views: 0.5ms | ActiveRecord: 0.8ms)
+Connecting to database specified by database.yml
+Creating scope :page. Overwriting existing method User.page.
+Creating scope :page. Overwriting existing method Hotel.page.
+Creating scope :page. Overwriting existing method Hotel::Room.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Photo.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Filter.page.
+Creating scope :page. Overwriting existing method Hotel::Service.page.
+Creating scope :page. Overwriting existing method Article.page.
+Creating scope :page. Overwriting existing method BasketItem.page.
+Creating scope :page. Overwriting existing method Document.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Hotel::Room::Photo class
+Creating scope :page. Overwriting existing method EmailTemplate.page.
+Creating scope :page. Overwriting existing method Hotel::City.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Image.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Document class
+Creating scope :page. Overwriting existing method Hotel::Review.page.
+Creating scope :page. Overwriting existing method Hotel::Service::Value.page.
+Creating scope :page. Overwriting existing method Hotel::SpecialOffer.page.
+Creating scope :page. Overwriting existing method Message.page.
+Creating scope :page. Overwriting existing method Ticket.page.
+Creating scope :page. Overwriting existing method Page.page.
+[paperclip] Duplicate path for image with :rails_root/public:url. This will clash with attachment defined in Article class
+Creating scope :page. Overwriting existing method Profile.page.
+Creating scope :page. Overwriting existing method ContactMessage.page.
+Creating scope :page. Overwriting existing method Hotel::BankAttribute.page.
+Creating scope :page. Overwriting existing method Hotel::Booking.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Type.page.
+Creating scope :page. Overwriting existing method Hotel::Street.page.
+
+
+Started GET "/" for 127.0.0.1 at 2012-12-09 21:32:13 +0400
+Processing by SiteController#index as HTML
+  Rendered text template (0.0ms)
+Completed 500 Internal Server Error in 71ms (Views: 66.4ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-12-09 21:32:15 +0400
+Processing by SiteController#index as HTML
+  Rendered text template (0.0ms)
+Completed 500 Internal Server Error in 3ms (Views: 0.5ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-12-09 21:32:16 +0400
+Processing by SiteController#index as HTML
+  Rendered text template (0.0ms)
+Completed 500 Internal Server Error in 4ms (Views: 0.4ms | ActiveRecord: 1.3ms)
+Connecting to database specified by database.yml
+Creating scope :page. Overwriting existing method User.page.
+Creating scope :page. Overwriting existing method Hotel.page.
+Creating scope :page. Overwriting existing method Hotel::Room.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Photo.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Filter.page.
+Creating scope :page. Overwriting existing method Hotel::Service.page.
+Creating scope :page. Overwriting existing method Article.page.
+Creating scope :page. Overwriting existing method BasketItem.page.
+Creating scope :page. Overwriting existing method Document.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Hotel::Room::Photo class
+Creating scope :page. Overwriting existing method EmailTemplate.page.
+Creating scope :page. Overwriting existing method Hotel::City.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Image.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Document class
+Creating scope :page. Overwriting existing method Hotel::Review.page.
+Creating scope :page. Overwriting existing method Hotel::Service::Value.page.
+Creating scope :page. Overwriting existing method Hotel::SpecialOffer.page.
+Creating scope :page. Overwriting existing method Message.page.
+Creating scope :page. Overwriting existing method Ticket.page.
+Creating scope :page. Overwriting existing method Page.page.
+[paperclip] Duplicate path for image with :rails_root/public:url. This will clash with attachment defined in Article class
+Creating scope :page. Overwriting existing method Profile.page.
+Creating scope :page. Overwriting existing method ContactMessage.page.
+Creating scope :page. Overwriting existing method Hotel::BankAttribute.page.
+Creating scope :page. Overwriting existing method Hotel::Booking.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Type.page.
+Creating scope :page. Overwriting existing method Hotel::Street.page.
+
+
+Started GET "/d/users/sign_in" for 127.0.0.1 at 2012-12-09 21:35:47 +0400
+Processing by SessionsController#new as HTML
+  Rendered text template (0.0ms)
+Completed 500 Internal Server Error in 80ms (Views: 74.7ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-12-09 21:35:57 +0400
+Processing by SiteController#index as HTML
+  Rendered text template (0.0ms)
+Completed 500 Internal Server Error in 7ms (Views: 1.2ms | ActiveRecord: 1.7ms)
+Connecting to database specified by database.yml
+Creating scope :page. Overwriting existing method User.page.
+Creating scope :page. Overwriting existing method Hotel.page.
+Creating scope :page. Overwriting existing method Hotel::Room.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Photo.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Filter.page.
+Creating scope :page. Overwriting existing method Hotel::Service.page.
+Creating scope :page. Overwriting existing method Article.page.
+Creating scope :page. Overwriting existing method BasketItem.page.
+Creating scope :page. Overwriting existing method Document.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Hotel::Room::Photo class
+Creating scope :page. Overwriting existing method EmailTemplate.page.
+Creating scope :page. Overwriting existing method Hotel::City.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Image.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Document class
+Creating scope :page. Overwriting existing method Hotel::Review.page.
+Creating scope :page. Overwriting existing method Hotel::Service::Value.page.
+Creating scope :page. Overwriting existing method Hotel::SpecialOffer.page.
+Creating scope :page. Overwriting existing method Message.page.
+Creating scope :page. Overwriting existing method Ticket.page.
+Creating scope :page. Overwriting existing method Page.page.
+[paperclip] Duplicate path for image with :rails_root/public:url. This will clash with attachment defined in Article class
+Creating scope :page. Overwriting existing method Profile.page.
+Creating scope :page. Overwriting existing method ContactMessage.page.
+Creating scope :page. Overwriting existing method Hotel::BankAttribute.page.
+Creating scope :page. Overwriting existing method Hotel::Booking.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Type.page.
+Creating scope :page. Overwriting existing method Hotel::Street.page.
+Connecting to database specified by database.yml
+Creating scope :page. Overwriting existing method User.page.
+Creating scope :page. Overwriting existing method Hotel.page.
+Creating scope :page. Overwriting existing method Hotel::Room.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Photo.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Filter.page.
+Creating scope :page. Overwriting existing method Hotel::Service.page.
+Creating scope :page. Overwriting existing method Article.page.
+Creating scope :page. Overwriting existing method BasketItem.page.
+Creating scope :page. Overwriting existing method Document.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Hotel::Room::Photo class
+Creating scope :page. Overwriting existing method EmailTemplate.page.
+Creating scope :page. Overwriting existing method Hotel::City.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Filter::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Image.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Document class
+Creating scope :page. Overwriting existing method Hotel::Review.page.
+Creating scope :page. Overwriting existing method Hotel::Service::Value.page.
+Creating scope :page. Overwriting existing method Hotel::SpecialOffer.page.
+Creating scope :page. Overwriting existing method Message.page.
+Creating scope :page. Overwriting existing method Ticket.page.
+Creating scope :page. Overwriting existing method Page.page.
+[paperclip] Duplicate path for image with :rails_root/public:url. This will clash with attachment defined in Article class
+Creating scope :page. Overwriting existing method Profile.page.
+Creating scope :page. Overwriting existing method ContactMessage.page.
+Creating scope :page. Overwriting existing method Hotel::BankAttribute.page.
+Creating scope :page. Overwriting existing method Hotel::Booking.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Item.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Type.page.
+Creating scope :page. Overwriting existing method Hotel::Street.page.
+
+
+Started GET "/" for 127.0.0.1 at 2012-12-15 20:29:16 +0400
+Processing by SiteController#index as HTML
+  Rendered text template (0.0ms)
+Completed 500 Internal Server Error in 76ms (Views: 71.4ms | ActiveRecord: 1.3ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2012-12-15 20:29:18 +0400
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  config/initializers/quiet_assets.rb:6:in `call_with_quiet_assets'
+
+
+
+
+Started GET "/" for 127.0.0.1 at 2012-12-15 20:29:23 +0400
+Processing by SiteController#index as HTML
+  Rendered text template (0.0ms)
+Completed 500 Internal Server Error in 3ms (Views: 0.5ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2012-12-15 20:29:23 +0400
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  config/initializers/quiet_assets.rb:6:in `call_with_quiet_assets'
+
+
+Connecting to database specified by database.yml
+Creating scope :page. Overwriting existing method User.page.
+Creating scope :page. Overwriting existing method Hotel.page.
+Creating scope :page. Overwriting existing method Hotel::Room.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Photo.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field.page.
+Creating scope :page. Overwriting existing method Hotel::Room::Field::Value.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List.page.
+Creating scope :page. Overwriting existing method Hotel::Room::List::Value.page.
+Migrating to CreateArticles (20120319222848)
+Migrating to CreateHotels (20120319222849)
+Migrating to DeviseCreateUsers (20120319223146)
+Migrating to AddRoleToUsers (20120319224343)
+Migrating to CreateHotelClassifications (20120320011833)
+Migrating to CreateHotelAdditionalServices (20120320012131)
+Migrating to CreateHotelPhotos (20120320012358)
+Migrating to AddIndexesToHotels (20120320015933)
+Migrating to CreateHotelRoomsTypeTypes (20120320100010)
+Migrating to CreateHotelRoomsTypes (20120320105454)
+Migrating to FixRoomsTypes (20120320110446)
+Migrating to CreateProfiles (20120321003611)
+Migrating to AddUserIdToProfile (20120321215708)
+Migrating to AddProfileIdToUsers (20120321223414)
+Migrating to CreatePages (20120322021341)
+Migrating to CreateMercuryImages (20120322023123)
+Migrating to CreateHotelReviews (20120322141407)
+Migrating to AddPublishedToReviews (20120322141408)
+Migrating to AddHotelIdToReviews (20120322142805)
+Migrating to RemoveOldTables (20120324105639)
+Migrating to RemoveTypeAndClassFieldsFromHotels (20120324110307)
+Migrating to CreateHotelFilters (20120324110621)
+Migrating to CreateHotelFilterItems (20120324110722)
+Migrating to CreateHotelFilterValues (20120324110822)
+Migrating to CreateHotelServices (20120324110934)
+Migrating to CreateHotelServiceValues (20120324111017)
+Migrating to AddCharacterToReviews (20120326151649)
+Migrating to RenameCharacterColumnIn (20120326151821)
+Migrating to AddReviewsCountToHotels (20120326153447)
+Migrating to AddDefaultFieldToServices (20120329121548)
+Migrating to CreateHotelImages (20120331132746)
+Migrating to AddDescriptionToImage (20120331133517)
+Migrating to AddImageFieldToImage (20120331205309)
+Migrating to CreateDocuments (20120331214526)
+Migrating to AddImageToArticles (20120331220113)
+Migrating to AddDescrptionToDocuments (20120403180209)
+Migrating to AddDeviseToUsers (20120403231502)
+Migrating to AddRoleFieldToUsers (20120404013041)
+Migrating to AddProfileIdToUsers2 (20120404013423)
+Migrating to CreateHotelCities (20120405140904)
+Migrating to AddDescriptionToProfile (20120405154115)
+Migrating to AddTypeToUsers (20120405225758)
+Migrating to AddCitiesUsersJoinTable (20120405233356)
+Migrating to RenameUsersCitiesToAdminsCities (20120406171707)
+Migrating to RenameUserIdToAgencyIdInProfiles (20120406184737)
+Migrating to AddCityIdToHotels (20120406185929)
+Migrating to CreateHotelRooms (20120408114805)
+Migrating to AddAddressToHotels (20120409034231)
+Migrating to AddFieldsToHotels (20120410000909)
+Migrating to CreateHotelSpecialOffers (20120410003814)
+Migrating to AddAllCountToHotelRooms (20120410003849)
+Migrating to ChangeDateTypeInSpecialOffers (20120410015544)
+Migrating to ChangeDescriptionTypeInSpecialOffrs (20120410020115)
+Migrating to CreateHotelsBankAttributes (20120414095912)
+Migrating to RenameImageField (20120416092411)
+Migrating to AddFieldsToRooms (20120416102018)
+Migrating to CreateHotelRoomImages (20120416102228)
+Migrating to RenameHotelIdToRoomIdInRoomImages (20120416103944)
+Migrating to ChangeAddressInHotel (20120416114638)
+Migrating to AddWayImage (20120416130239)
+Migrating to AddDefaultValueToServices (20120416182738)
+Migrating to AddPriceFieldsToToms (20120416225036)
+Migrating to CreateHotelRoomFields (20120417052917)
+Migrating to CreateHotelRoomFieldValues (20120417053012)
+Migrating to CreateHotelRoomTypes (20120417193555)
+Migrating to AddTypeIdToRooms (20120417202242)
+Migrating to RenameRoomImagesTable (20120417204227)
+Migrating to CreateHotelBookings (20120417231052)
+Migrating to AddBookingIdToHotels (20120418004129)
+Migrating to AddBookingDescriptionToHotels (20120418004608)
+Migrating to AddPublishedToHotels (20120418005515)
+Migrating to AddTitleToHotelSpecialOffers (20120418012431)
+Migrating to AddOnlySignedFieldToHotelServices (20120418073145)
+Migrating to AddOnlySignedFieldToHotelRoomFields (20120418073432)
+Migrating to CreateHotelStreets (20120418074132)
+Migrating to AddStreetIdToHotels (20120418074848)
+Migrating to AddSomeFieldsToHotels (20120418082527)
+Migrating to AddMultilineFlagToService (20120418092809)
+Migrating to AddMultilineFlagToFields (20120418092823)
+Migrating to AddAgencyCommissionToHotels (20120418145531)
+Migrating to RemoveProfileIdFromUsers (20120419045336)
+Migrating to AddCounterCacheFieldsToHotels (20120419080415)
+Migrating to AddPlacesCountFieldsToHotelRooms (20120419084458)
+Migrating to RemoveSeatsFromHotelRooms (20120419085142)
+Migrating to CreateTickets (20120420131839)
+Migrating to CreateMessages (20120420132047)
+Migrating to AddIsPartnerFieldToUsers (20120420135053)
+Migrating to AddBackendsTable (20120424210820)
+Migrating to AddIndexForRoomsUsers (20120503133455)
+Migrating to RenameTicketsHotelRoomsToRoomsTickets (20120503145637)
+Migrating to FixProfileTable (20120504053748)
+Migrating to AddChangeLogTable (20120504150018)
+Migrating to AddModelNameToChangeLogs (20120504160331)
+Migrating to AddMessagesHaveReadUsersTable (20120507130520)
+Migrating to AddNewMessageCountToUsers (20120507131347)
+Migrating to AddCountFieldsToTickets (20120508113309)
+Migrating to AddMapCoordsToHotels (20120509080959)
+Migrating to AddLogoFieldsToAgencies (20120510065741)
+Migrating to AddPrintFieldToHotelRoomFields (20120510081511)
+Migrating to CreateAdminNotes (20120514102243)
+Migrating to MoveAdminNotesToComments (20120514102244)
+Migrating to AddCitiesTicketsTable (20120514130954)
+Migrating to RenameCitiesAdminsToCitiesModerators (20120514141216)
+Migrating to AddPositionToDocuments (20120515085314)
+Migrating to AddRenderedContentToArticles (20120515093927)
+Migrating to RenameAdminIdToModeratorIdInTickets (20120515095703)
+Migrating to FixPositionFielsInDocumentsTable (20120515124623)
+Creating scope :page. Overwriting existing method Document.page.
+[paperclip] Duplicate path for attach with :rails_root/public:url. This will clash with attachment defined in Hotel::Room::Photo class
+Migrating to AddPositionFieldsInTables (20120515171415)
+Creating scope :page. Overwriting existing method Hotel::City.page.
+Creating scope :page. Overwriting existing method Hotel::Filter.page.
+Creating scope :page. Overwriting existing method Hotel::Service.page.
+Migrating to AddLastMessageCreatedAtToTickets (20120518085154)
+Migrating to AddDefaultValuesToCountFieldsInHotels (20120518101334)
+Migrating to CreateHotelRoomLists (20120523134418)
+Migrating to CreateHotelRoomListItems (20120523191553)
+Migrating to CreateHotelRoomListValues (20120523191657)
+Migrating to RemoveDateFieldsFromUsers (20120524144425)
+Migrating to AddShowInSeachToHotelFilters (20120526105046)
+Migrating to AddPrintFlagToHotelServices (20120527195219)
+Migrating to CreateEmailTemplates (20120530075605)
+Migrating to AddNotifiedToProfiles (20120531083538)
+Migrating to AddDefaultPublishedToHotelReviews (20120605095229)
+Migrating to ChangeEmailTemplate (20120609051848)
+Migrating to AddCityToProfiles (20120611101156)
+Migrating to AddImageFieldsInPagesTable (20120612101034)
+Migrating to AddIncludeToPrintToHotelFilters (20120612153616)
+Migrating to CreateDelayedJobs (20120618124045)
+Migrating to AddDefaultValuesToTickets (20120621130344)
+Migrating to AddFilterIdToHotelServices (20120624153039)
+Migrating to RenameFilterIdToFilterItemId (20120624154137)
+Migrating to AddCompanyNameToTickets (20120629110227)
+Creating scope :page. Overwriting existing method Ticket.page.
+Migrating to AddSaveFilterFieldsToUsers (20120705092822)
+Migrating to AddDefaultValueToHotelSearchQuery (20120705110333)
+Migrating to ChangeDefaultValueFromSaveHotelQuery (20120705142737)
+Migrating to AddLostIndexes (20120711235414)
+Migrating to AddCloserIdToTickets (20120717141855)
+Migrating to AddStreetToHotels (20120801110353)
+Migrating to CreateSimpleCaptchaData (20120807115636)
+Migrating to AddContactMessages (20120807115637)
